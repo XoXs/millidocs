@@ -4,47 +4,19 @@ title: Overview
 navigation: 1
 ---
 
-# Millidocs Theme
-
-Simple documentation theme for Jekyll featuring [Milligram CSS framework](http://milligram.io/), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
-
-One of the core features is a full text client side search and full responsiveness. It has zero dependencies with other gems and should be easily build with Github.
-
-## Installation
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "millidocs"
-```
-
-Adapt your Jekyll site config `_config.yml`:
-
-```yaml
-  title: My Docs Page Title
-  description: MY description
-  url: "https://base/url/site"
-  theme: millidocs
-
-  markdown: kramdown
-  kramdown:
-    syntax_highlighter_opts:
-      disable : true
-
-  exclude:
-    - Gemfile
-    - Gemfile.lock
-    - README.md
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install millidocs
-
-## Available Layouts
-
-This theme is made for _pages_ only and doesn't support _posts_ by default. So the only available layouts are `default` and `page`.
+![This is an image](bloxmove_colour.png)
+# Available Pages
+ - Architecture Overview
+   1. [Core mechanisms](https://github.com/yatin902/test/blob/main/Markdown/Technical%20Documentation/Architecture%20Overview/Core-mechanisms_1593933450.md)
+   2. [Generalized Contracting Flow](https://github.com/yatin902/test/blob/main/Markdown/Technical%20Documentation/Architecture%20Overview/Generalized-Contracting-Flow_1575616272.md)
+   3. [aims / Credential Exchange](/README4.md)
+   4. [Verifiable Credential / Verifiable Presentation](README5.md)
+   5. [Use of BBS+ signatures](README6.md)
+   6. [Car access mechanisms](README7.md)
+   7. [Settlement Process](README8.md)
+   8. [Business Process Modeling and Engine](README9.md)
+   9. [Safe Storage Module](README10.md)
+   10. [Usage of Verifiable Credentials](README11.md)
+   11. [Universal Asset Service](README12.md)
+   12. [Vehicle Integration and Management](README13.md)
+   13. [bloXmove Protocol Integration Scenarios](README14.md)

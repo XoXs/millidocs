@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test
-navigation: 4
+title: Test2
+navigation: 5
 ---
 
 # BloXmove Dev : Usage of Verifiable Credentials

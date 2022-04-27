@@ -1,3 +1,11 @@
+---
+layout: page
+title: Test55
+navigation: 7
+---
+
+safdhsdjfhj3sadadsf
+
 # BloXmove Dev : Usage of Verifiable Credentials
 Attestations in the MBP basic business architecture can be represented by off-chain verifiable credentials according to the W3C specification, especially when their content contains sensitive information that should not be visible on a ledger.
 The following describes the technical flows of verifiable credential issuance and validation, using the example of user claims (driverLicense, minAge) that a service consumer gets attested by a KYC Provider and presents it to the Fleet Node for proving to fulfil the requirements to rent a car.

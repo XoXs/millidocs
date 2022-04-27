@@ -1,9 +1,3 @@
----
-layout: page
-title: Overview
-navigation: 1
----
-
 ![This is an image](bloxmove_colour.png)
 # Available Pages
  - Architecture Overview

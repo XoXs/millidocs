@@ -18,7 +18,7 @@ Based on the asset and attestation concept described in the [Core mechanisms](ht
 
 
 The flow and attestations are depicted in the following diagram:
-![This is an image](https://github.com/yatin902/test/blob/main/1575780026.png)
+![This is an image](1575780026.png)
 
 ### Contract creation and start
 1. _Consumer_ requests a contract indicating the service it wants to book and its consumer DID

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Safe Storage Module
+navigation: 9
+---
+
+
 # BloXmove Dev : Safe Storage Module
 The Safe Storage Module is an independent component of the MBP that can be used to efficiently store large amounts of data (e.g. raw telematics data from vehicles) off-chain and link them to on-chain timestamped proofs based on hash trees.
 

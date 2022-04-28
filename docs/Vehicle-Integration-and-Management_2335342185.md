@@ -1,3 +1,9 @@
+---
+layout: page
+title: Universal Asset Service
+navigation: 13
+---
+
 # BloXmove Dev : Vehicle Integration and Management
 This page collects architectural options and input for the management and integration of vehicles including related data and services.
 

@@ -19,6 +19,7 @@ The business logic orchestrates calls to an abstract Settlement Service (library
 - Settlement information is pushed in realtime
 
 - Business logic is in control of settlement
+- 
 #### Cons
 
 - Business Logic has a dependency on settlement details

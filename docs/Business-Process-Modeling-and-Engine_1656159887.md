@@ -25,16 +25,3 @@ The BPMN diagram is modelled graphically using a tool like [Camunda Modeler](htt
   -   Alternative would be to use a stand-alone BPMN engine as a pure service orchestrator, e.g. Zeebe, and provide the required steps as micro-service operations
   -   There is a BPMN engine implementation in JavaScript (https://www.npmjs.com/package/bpmn-engine), however this seems to be a rather lightweight single-maintainer project that should be carefully evaluated before usage in an enterprise context
 
-## Evaluation of Business Process Engines
-Based on the last discussion point of the previous section, the ```bpmn-engine``` npm library and Zeebe were evaluated in more detail. The evaluation mainly comprised a sample code project for each of the two, the results have been packaged and briefly documented in the attached source code project mbp-bpmn-samples.
-
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](attachments/1656159887/4498260008.png "mbp-bpmn-samples.zip")](attachments/1656159887/4498260008.zip)
-<!-- END LATEST DOWNLOAD BUTTON -->
-
-The evaluation revealed **Zeebe** as a suitable solution allowing an independent management and orchestration of business process with good integration into many programming languages and frameworks, including nest.js. Processes can be modelled using the [Zeebe Modeler](https://github.com/zeebe-io/zeebe-modeler/releases), which supports only a subset of the full BPMN notation. However this is not considered a limitation, since automated steps are modelled with service tasks that are implemented by so-called [job workers](https://docs.zeebe.io/basics/job-workers.html), and asynchronous interruptions of the process (e.g. human interaction) are modelled with events that can be triggered using the Zeebe API.
-
-The``` bpmn-engine``` disqualified due to the fact that it is a pure execution engine that does not come with state handling or persistence, only allowing to serialize and deserialize process state in order to implement own persistence mechanisms.
-
-## Next Steps
-As a next step, Zeebe should be further explored in practice with a real use case, starting by modelling the respective business process with Zeebe modeler, and then implementing the single service tasks as reusable job worker functions.

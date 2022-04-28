@@ -10,7 +10,7 @@ This page collects architectural options and input for the management and integr
 ## Fleet Gateway
 #### Input provided by Leam
 | Name      | File |
-| :---        |    :----:   |
+|-------|--------|
 | REST API Specificatio      | ![This is an image](attachments/2335342185/2335342196) |
 | Architectural Scheme   | ![This is an image](attachments/2335342185/2335407723) |
 
@@ -21,7 +21,7 @@ Architecture corresponds to a combination / subset of existing (simulated) Fleet
 ## Vehicle Onboard Unit Integration
 #### Input provided by Nantis
 | Name      | File |
-| :---        |    :----:   |
+|-------|--------|
 | Concept Document Version 0.2      | ![This is an image](attachments/2335342185/2335735409) |
 
 

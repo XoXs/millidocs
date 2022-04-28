@@ -20,7 +20,7 @@ After the initial onboarding, the F2S App uses the ONT ID to request a rental, p
 The same way, the remaining parts of the rental process are handled, with the F2S App always using the ONT ID for consumer confirmations or signatures, and the Fleet Node and Virtual Car Wallet recognising the ONT related DID based on the Universal Asset Service implementation.
 
 ## Asset Service Interface
-The current asset service TypeScript definition can be found in GitHub: https://github.com/bloxmove-com/did-asset-library/blob/master/src/services/asset.service.ts
+The current asset service TypeScript definition can be found in GitHub: <https://github.com/bloxmove-com/did-asset-library/blob/master/src/services/asset.service.ts>
 
 The following table lists the current operations and provides a basic specification how a support of multiple/different DID methods should be achieved.
 

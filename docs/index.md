@@ -1,3 +1,8 @@
+---
+layout: page
+title: Index
+---
+
 ![This is an image](bloxmove_colour.png)
 # Available Pages
    1. [Architecture Overview](Architecture-Overview_4492492808.md)

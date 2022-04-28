@@ -1,3 +1,10 @@
+---
+layout: page
+title: Car access mechanisms
+navigation: 7
+---
+
+
 # BloXmove Dev : Car access mechanisms
 
 Car access can be either controlled via the Virtual Car Wallet connected to a Telematics Gateway, or using a Hardware Car Wallet directly in the car.

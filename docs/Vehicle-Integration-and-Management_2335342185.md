@@ -9,6 +9,13 @@ This page collects architectural options and input for the management and integr
 
 ## Fleet Gateway
 #### Input provided by Leam
+
+| File | Name |
+| ---- | ------- |
+| ![This is an image](attachments/2335342185/2335342196) | Specification |
+| ![This is an image](attachments/2335342185/2335407723) | Scheme |
+
+
 <table>
   <thead>
     <tr>

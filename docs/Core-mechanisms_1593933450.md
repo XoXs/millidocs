@@ -1,3 +1,9 @@
+---
+layout: page
+title: Core mechanisms
+navigation: 2
+---
+
 # BloXmove Dev : Core mechanisms
 
 | Presentation  | Version       | Authors   |

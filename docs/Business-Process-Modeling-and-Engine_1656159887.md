@@ -6,7 +6,7 @@ The following diagram shows the usage of a business process engine in the contex
 
 The main business logic is realised by Service Tasks in the process of the Service Provider. The Service Tasks can be implemented by code running on the same machine, or by calling remote (micro-)services via a service connector. This allows to provide predefined building blocks of task implementations or service calls that can be re-used in many business processes.
 
-![This is an image](https://github.com/yatin902/test/blob/main/1656159887/1660714626.jpg)
+![This is an image](/1656159887/1660714626.jpg)
 The BPMN diagram is modelled graphically using a tool like [Camunda Modeler](https://camunda.com/download/modeler/), which includes references of tasks to particular implementation classes, functions, or service calls. It is then exported as an XML document which can be imported to the business process engine, and executed assumed that all referenced implementations and service connectors are available in the context of the execution engine.
 
 ## Points of Discussion

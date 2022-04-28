@@ -8,9 +8,11 @@ navigation: 13
 This page collects architectural options and input for the management and integration of vehicles including related data and services.
 
 ## Fleet Gateway
-Input provided by Leam
-| REST API Specification |![This is an image](attachments/2335342185/2335342196) |
-| Architectural Scheme   |![This is an image](attachments/2335342185/2335407723) |
+#### Input provided by Leam
+| Name      | File |
+| :---        |    :----:   |
+| REST API Specificatio      | ![This is an image](attachments/2335342185/2335342196) |
+| Architectural Scheme   | ![This is an image](attachments/2335342185/2335407723) |
 
 Architecture corresponds to a combination / subset of existing (simulated) Fleet Backend and Virtual Car Wallet components, detailed integration with MBP is not yet defined.
 

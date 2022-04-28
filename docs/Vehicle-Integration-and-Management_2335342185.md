@@ -15,46 +15,17 @@ This page collects architectural options and input for the management and integr
 | ![This is an image](attachments/2335342185/2335342196) | Specification |
 | ![This is an image](attachments/2335342185/2335407723) | Scheme |
 
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>File</th>   
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>REST API Specification</td>
-      <td><a href="attachments/2335342185/2335342196"><img src="attachments/2335342185/2335342196"></a></td>
-    </tr>
-    <tr>
-      <td>Architectural Scheme</td> 
-      <td><a href="attachments/2335342185/2335407723"><img src="attachments/2335342185/2335407723"></a></td>
-    </tr>
-  </tbody>
-</table>
-
 Architecture corresponds to a combination / subset of existing (simulated) Fleet Backend and Virtual Car Wallet components, detailed integration with MBP is not yet defined.
 
 ![This is an image](attachments/2335342185/2335637100.png)
 
 ## Vehicle Onboard Unit Integration
 #### Input provided by Nantis
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>File</th>   
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Concept Document Version 0.2 </td>
-      <td><a href="attachments/2335342185/2335735409"><img src="attachments/2335342185/2335735409"></a></td>
-    </tr>
-  </tbody>
-</table>
+
+| File | Name |
+| ---- | ------- |
+| ![This is an image](attachments/2335342185/2335735409) | Concept Document Version 0.2 |
+
 
 Focusses on integration of physical car wallet based on OLU (On-board Logic Unit) Connect Box.
 

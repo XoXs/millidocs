@@ -1,3 +1,10 @@
+---
+layout: page
+title: Universal Asset Service
+navigation: 12
+---
+
+
 # BloXmove Dev : Universal Asset Service
 ## Using ONT ID for Service Consumer, Ethr DIDs for Other Components
 The following assumes a scenario where the user / consumer of the rental service has an ONT Id, and all other entities Fleet Owner (with the Fleet Node backend service acting on its behalf), Vehicle, and Rental Contract are using Ethr DIDs. Further assumed is that the user uses a mobile app where the private key and certain VCs of its ONT Id are already stored, e.g. the Welcome Home App or a more general wallet app like ONTO.

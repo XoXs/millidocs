@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core Generalized Contracting Flow
+title: Generalized Contracting Flow
 navigation: 3
 ---
 

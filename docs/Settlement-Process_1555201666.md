@@ -1,3 +1,10 @@
+---
+layout: page
+title: Settlement Process
+navigation: 8
+---
+
+
 # BloXmove Dev : Settlement Process
 The bloXmove platform should provide a pluggable, flexible settlement mechanism for tracking liabilities and allowing payment as well as netting between single parties involved in a business transaction. In order to provide a well-designed abstraction, the following alternatives are to be considered.
 

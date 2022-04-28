@@ -20,5 +20,5 @@ Together with different options for gathering telematics data from the car, this
 ![This is an image](attachments/1812168301.png)
 The favoured approach is scenario 2, however due to restrictions in terms of in-car security the “mixed” scenario 1 is likely for the European Union. For testing and development, we currently employ scenario 3 with a simulated/mocked telematics gateway and telematics box.
 
-![This is an image](attachments/1812233848.jpg)
+[![This is an image](attachments/1812233848.jpg)](attachments/1812233848.jpg)
 

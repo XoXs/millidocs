@@ -1,3 +1,9 @@
+---
+layout: page
+title: Business Process Modeling and Engine
+navigation: 9
+---
+
 # BloXmove Dev : Business Process Modeling and Engine
 In order to establish a common language between business and technical implementation, as well as improve the structure, maintainability and re-usability of the source code, a business process execution engine can be used to orchestrate the main business logic based on workflows modelled in the BPMN 2.0 (https://www.omg.org/spec/BPMN/2.0/About-BPMN/) notation.
 

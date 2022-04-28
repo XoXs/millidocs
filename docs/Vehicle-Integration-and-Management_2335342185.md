@@ -9,12 +9,6 @@ This page collects architectural options and input for the management and integr
 
 ## Fleet Gateway
 #### Input provided by Leam
-| Name      | File |
-|-------|--------|
-| REST API Specification      | ![This is an image](attachments/2335342185/2335342196) |
-| Architectural Scheme   | ![This is an image](attachments/2335342185/2335407723) |
-
-
 <table>
   <thead>
     <tr>
@@ -40,10 +34,20 @@ Architecture corresponds to a combination / subset of existing (simulated) Fleet
 
 ## Vehicle Onboard Unit Integration
 #### Input provided by Nantis
-| Name      | File |
-|-------|--------|
-| Concept Document Version 0.2      | ![This is an image](attachments/2335342185/2335735409) |
-
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>File</th>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Concept Document Version 0.2 </td>
+      <td><a href="attachments/2335342185/2335735409"><img src="attachments/2335342185/2335735409"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 Focusses on integration of physical car wallet based on OLU (On-board Logic Unit) Connect Box.
 

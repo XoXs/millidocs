@@ -11,8 +11,28 @@ This page collects architectural options and input for the management and integr
 #### Input provided by Leam
 | Name      | File |
 |-------|--------|
-| REST API Specificatio      | ![This is an image](attachments/2335342185/2335342196) |
+| REST API Specification      | ![This is an image](attachments/2335342185/2335342196) |
 | Architectural Scheme   | ![This is an image](attachments/2335342185/2335407723) |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>File</th>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>REST API Specification</td>
+      <td><a href="attachments/2335342185/2335342196"><img src="attachments/2335342185/2335342196"></a></td>
+    </tr>
+    <tr>
+      <td>Architectural Scheme</td> 
+      <td><a href="attachments/2335342185/2335407723"><img src="attachments/2335342185/2335407723"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 Architecture corresponds to a combination / subset of existing (simulated) Fleet Backend and Virtual Car Wallet components, detailed integration with MBP is not yet defined.
 

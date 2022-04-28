@@ -1,3 +1,9 @@
+---
+layout: page
+title: Usage of Verifiable Credentials
+navigation: 10
+---
+
 
 # BloXmove Dev : Usage of Verifiable Credentials
 Attestations in the MBP basic business architecture can be represented by off-chain verifiable credentials according to the [W3C specification](https://www.w3.org/TR/vc-data-model/), especially when their content contains sensitive information that should not be visible on a ledger.

@@ -5,7 +5,7 @@ navigation: 9
 ---
 
 # BloXmove Dev : Business Process Modeling and Engine
-In order to establish a common language between business and technical implementation, as well as improve the structure, maintainability and re-usability of the source code, a business process execution engine can be used to orchestrate the main business logic based on workflows modelled in the BPMN 2.0 (https://www.omg.org/spec/BPMN/2.0/About-BPMN/) notation.
+In order to establish a common language between business and technical implementation, as well as improve the structure, maintainability and re-usability of the source code, a business process execution engine can be used to orchestrate the main business logic based on workflows modelled in the BPMN 2.0 (<https://www.omg.org/spec/BPMN/2.0/About-BPMN/>) notation.
 
 ## Architecture Principle
 The following diagram shows the usage of a business process engine in the context of the Fleet2Share scenario: both Service Consumer (User Mobility App) and Service Provider (Fleet Node) have a business process engine embedded. The Service Consumer basically triggers the Human Tasks and exchanges messages with the Service Provider part of the process, which could be routed through some REST API Facade on the Service Provider side.

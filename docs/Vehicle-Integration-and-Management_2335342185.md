@@ -19,8 +19,11 @@ Architecture corresponds to a combination / subset of existing (simulated) Fleet
 ![This is an image](attachments/2335342185/2335637100.png)
 
 ## Vehicle Onboard Unit Integration
-Input provided by Nantis
-| ![This is an image](attachments/2335342185/2335735409) | Concept Document Version 0.2 |
+#### Input provided by Nantis
+| Name      | File |
+| :---        |    :----:   |
+| Concept Document Version 0.2      | ![This is an image](attachments/2335342185/2335735409) |
+
 
 Focusses on integration of physical car wallet based on OLU (On-board Logic Unit) Connect Box.
 

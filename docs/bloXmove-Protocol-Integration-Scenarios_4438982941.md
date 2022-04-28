@@ -9,4 +9,3 @@ Overview and implementation sketches of different technical scenarios how the re
 
 ![This is an image](attachments/4438982941/4439114038.png)
 [![This is an image](attachments/4438982941/4498292845)](attachments/4438982941/4498292845)
-![This is an image](attachments/4438982941/4498292845)

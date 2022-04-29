@@ -11,4 +11,4 @@ navigation: 13
 ![This is an image](attachments/CPO-Node-Charge-Start-Flow.png)(url){:target="_blank"}
 
 ## CPO Node Charge End Flow
-<a href="https://raw.githubusercontent.com/XoXs/millidocs/master/docs/attachments/CPO-Node-Charge-End-Flow.png">![This is an image](attachments/CPO-Node-Charge-End-Flow.png)</a>
+![This is an image](attachments/CPO-Node-Charge-End-Flow.png)(url){:target="_blank"}

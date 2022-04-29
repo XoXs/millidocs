@@ -8,8 +8,9 @@ navigation: 13
 
 ## CPO Node Charge Start Flow
 
-<a href="https://raw.githubusercontent.com/bloxmove-com/documentation/main/docs/attachments/CPO-Node-Charge-Start-Flow.png?token=GHSAT0AAAAAABT753FG5YRGGKFGJB45EUY4YTL4POA" target="_blank">![This is an image](attachments/CPO-Node-Charge-Start-Flow.png)</a>
+<a href="https://github.com/bloxmove-com/documentation/blob/main/docs/attachments/CPO-Node-Charge-Start-Flow.png" target="_blank">![This is an image](attachments/CPO-Node-Charge-Start-Flow.png)</a>
 
 ## CPO Node Charge End Flow
 
-<a href="https://raw.githubusercontent.com/bloxmove-com/documentation/main/docs/attachments/CPO-Node-Charge-End-Flow.png?token=GHSAT0AAAAAABT753FHQTBYEZ344K4PNPZQYTL4KIQ" target="_blank">![This is an image](attachments/CPO-Node-Charge-End-Flow.png)</a>
+<a href="https://github.com/bloxmove-com/documentation/blob/main/docs/attachments/CPO-Node-Charge-End-Flow.png" target="_blank">![This is an image](attachments/CPO-Node-Charge-End-Flow.png)</a>
+https://raw.githubusercontent.com/bloxmove-com/documentation/main/docs/attachments/CPO-Node-Charge-End-Flow.png?token=GHSAT0AAAAAABT753FHQTBYEZ344K4PNPZQYTL4KIQ
